@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - turn
+  - pocisk
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - "pod\u0142o\u017Ce"
+  - Player
+  - pociski
+  - przeciwnik
+  - "\u0142a\u0144cuch"
+  - sztabka
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "T\u0142o"
+    uniqueID: 1805729409
+    locked: 0
+  - name: Drugi plan
+    uniqueID: 2753722911
+    locked: 0
+  - name: "Pod\u0142o\u017Ce"
+    uniqueID: 2279177825
+    locked: 0
+  - name: Player
+    uniqueID: 18896377
+    locked: 0
+  - name: przedmioty
+    uniqueID: 318424079
+    locked: 0
+  - name: przeciwnik
+    uniqueID: 2564768809
+    locked: 0
+  - name: pocisk
+    uniqueID: 1158196691
+    locked: 0
